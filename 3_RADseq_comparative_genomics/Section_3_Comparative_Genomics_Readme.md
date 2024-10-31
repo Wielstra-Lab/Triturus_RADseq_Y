@@ -1,7 +1,7 @@
 ## Section 3: Comparative Genomics with P. waltl (and L. Vulgaris)
 
 
-## BLAST against _P. waltl_ 
+#### BLAST against _P. waltl_ 
 
 > a fasta file was made containing the sequences placed on the linkage map (and the candidate Y-linked markers)
 
